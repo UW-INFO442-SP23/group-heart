@@ -40,7 +40,7 @@ export default function App(props) {
       <Route path="home" element={<HomePage />} />
       <Route path="about" element={<AboutPage />} />
       {/* <Route path="map/:storyId" element={<MapPage fairytaleData={props.fairytaleData}/>} /> */}
-      <Route path="map" element={<MapPage />} />
+      <Route path="map/:storyId" element={<MapPage />} />
       <Route path="*" element={<Navigate to="/home" />} ></Route>
     </Routes>
   );
