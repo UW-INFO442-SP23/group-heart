@@ -6,7 +6,7 @@ import { HomePage } from './HomePage';
 import { MapPage } from './MapPage';
 import { AboutPage} from './AboutPage';
 
-function App(props) {
+export default function App(props) {
 //   const [data, setData] = useState([]);
 //   const [alertMessage, setAlertMessage] = useState(null);
 //   const [isFetching, setIsFetching] = useState(false);
@@ -40,10 +40,8 @@ function App(props) {
       <Route path="home" element={<HomePage />} />
       <Route path="about" element={<AboutPage />} />
       {/* <Route path="map/:storyId" element={<MapPage fairytaleData={props.fairytaleData}/>} /> */}
-      <Route path="map/:storyId" element={<MapPage />} />
+      <Route path="map" element={<MapPage />} />
       <Route path="*" element={<Navigate to="/home" />} ></Route>
     </Routes>
   );
 }
-
-export default App;
