@@ -2,9 +2,9 @@ import React from 'react';
 import { useState, useEffect } from 'react';
 import { Routes, Route, Navigate } from 'react-router-dom';
 
-import { HomePage } from './HomePage';
-import { MapPage } from './MapPage';
-import { AboutPage} from './AboutPage';
+import { HomePage } from './Home/HomePage';
+import { MapPage } from './Map/MapPage';
+import { AboutPage} from './About/AboutPage';
 
 export default function App(props) {
 //   const [data, setData] = useState([]);
