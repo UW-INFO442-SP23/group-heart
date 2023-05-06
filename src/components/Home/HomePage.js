@@ -1,5 +1,7 @@
 import React from 'react';
 import { Navbar } from '../Common/Navbar';
+import {FooterComponent} from '../Common/Footer'
+import { Cards } from './Card';
 // Homepage wireframe (feel free to change it just a wireframe)
 
 // <Header>
@@ -21,15 +23,7 @@ export function HomePage(props) {
                         </div>
                     <div className="item" id='item2'></div>
                 </div>
-
-                <div className='cardsContainer'>
-                    <div className="homecard">Item 1</div>
-		            <div className="homecard">Item 2</div>
-		            <div className="homecard">Item 3</div>
-
-
-                </div>
-                
+                <Cards />
                 <div role="document">
 
                     <div className="missionContainer">
@@ -48,8 +42,10 @@ export function HomePage(props) {
                     </div>
                 </div>
             </main>
+            <FooterComponent></FooterComponent>
         </div>
     )
 }
+
 
 
