@@ -1,13 +1,8 @@
 import React from 'react';
 import { Navbar } from '../Common/Navbar';
-import {FooterComponent} from '../Common/Footer'
+import { Footer } from '../Common/Footer'
 import { Cards } from './Card';
-// Homepage wireframe (feel free to change it just a wireframe)
 
-// <Header>
-// <Banner>
-// <Card>
-// <Footer>
 
 export function HomePage(props) {
     
@@ -42,7 +37,7 @@ export function HomePage(props) {
                     </div>
                 </div>
             </main>
-            <FooterComponent></FooterComponent>
+            <Footer />
         </div>
     )
 }

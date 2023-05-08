@@ -39,8 +39,7 @@ export default function App(props) {
       {/* <Route path="home" element={<HomePage fairytaleData={data} alertMessage={alertMessage} waiting={isFetching}/>} /> */}
       <Route path="home" element={<HomePage />} />
       <Route path="about" element={<AboutPage />} />
-      {/* <Route path="map/:storyId" element={<MapPage fairytaleData={props.fairytaleData}/>} /> */}
-      <Route path="map/:storyId" element={<MapPage />} />
+      <Route path="map/:locationId" element={<MapPage locationData={props.locationData}/>} />
       <Route path="*" element={<Navigate to="/home" />} ></Route>
     </Routes>
   );

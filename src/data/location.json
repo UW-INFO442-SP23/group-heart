@@ -1,12 +1,12 @@
 [
     {
         "id": "1", 
-        "name": "Ballard Low Vision Support Group", 
-        "address": "Ballard NW Senior Center: 5429 32nd Ave NW, Seattle, WA", 
-        "contactPerson": "Mary Lewis", 
-        "contactPhone": "(206) 551-2912", 
-        "contactEmail": "mlewis915@me.com", 
-        "location": [47.668588871125685, -122.39804514454534]
+        "name": "Seattle Low Vision Support Group", 
+        "address": "Community Meeting Room -- Capitol Hill Branch of the Seattle Public Library: 425 Harvard Ave E, Seattle, WA 98102", 
+        "contactPerson": "Camille Jassny, Barbara Goeckel", 
+        "contactPhone": "(206) 363-8166", 
+        "contactEmail": "cjassny@gmail.com",  
+        "location": [47.6231808532245, -122.32239720350955]
     },
     {
         "id": "2", 
@@ -46,12 +46,12 @@
     }, 
     {
         "id": "6", 
-        "name": "Seattle Low Vision Support Group", 
-        "address": "Community Meeting Room -- Capitol Hill Branch of the Seattle Public Library: 425 Harvard Ave E, Seattle, WA 98102", 
-        "contactPerson": "Camille Jassny, Barbara Goeckel", 
-        "contactPhone": "(206) 363-8166", 
-        "contactEmail": "cjassny@gmail.com",  
-        "location": [47.6231808532245, -122.32239720350955]
+        "name": "Ballard Low Vision Support Group", 
+        "address": "Ballard NW Senior Center: 5429 32nd Ave NW, Seattle, WA", 
+        "contactPerson": "Mary Lewis", 
+        "contactPhone": "(206) 551-2912", 
+        "contactEmail": "mlewis915@me.com", 
+        "location": [47.668588871125685, -122.39804514454534]
     },
     {
         "id": "7", 
