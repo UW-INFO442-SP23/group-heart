@@ -6,7 +6,7 @@ Rainbow is a INFO 442 project designed to address the UN’s Sustainable Develop
 
 **Problem Statement: How might we support kids with color blindness and their families to help raise self esteem and confidence during their early childhood education?**
 
-Inspired by: 
+Inspired by: [A non-profit organization based in the UK](colorblindawareness.org)
 
 UN’s SDG Website: [link](https://www.un.org/sustainabledevelopment/sustainable-development-goals/).
 
