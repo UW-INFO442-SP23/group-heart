@@ -2,16 +2,16 @@
 ## Group 2: Team <3
 
 ## Our Mission
-Rainbow is a INFO 442 project designed to address the UN’s Sustainable Development Goal (SDG) of Quality Education. We offer a solution to the problem of colorblind children not having access to resources that help them learn about color at school and at home by creating an educational tool that will provide the appropriate support. 
+Rainbow is a INFO 442 project designed to address the UN’s Sustainable Development Goal (SDG) of Quality Education. We offer a solution to the problem of colorblind children not having access to resources that help them learn about color at school and at home by creating an educational tool that will provide the appropriate support.
 
 **Problem Statement: How might we support kids with color blindness and their families to help raise self esteem and confidence during their early childhood education?**
 
-Inspired by: [A non-profit organization based in the UK](colorblindawareness.org)
+Inspired by: [A non-profit organization based in the UK](https://colorblindawareness.org/)
 
-UN’s SDG Website: [link](https://www.un.org/sustainabledevelopment/sustainable-development-goals/).
+UN’s SDG Website: [link](https://www.un.org/sustainabledevelopment/sustainable-development-goals/)
 
 ## **Features**
-- Educational cards for each color of the rainbow to help children with color blindness learn/associate colors with objects 
+- Educational cards for each color of the rainbow to help children with color blindness learn/associate colors with objects
 - Interactive map showing locations of community and support groups relating to color blindness and research centers for visual impairments. In addition, we also include educational experiences and accessibility programs in the Seattle area.
 - About us page explaining our mission and shining light on the struggles colorblind children face in education
 ## **MVP**
