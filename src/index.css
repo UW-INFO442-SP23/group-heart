@@ -111,23 +111,53 @@ body {
     margin-left: 5px;
 }
 
-.Card-content{
-    position: relative;
+.row{
+    width: 100%;
+    /* position: relative; */
     height: 300px;
-    width: 70%;
     background-color: #ccc;
     display: flex;
     align-items: center;
     justify-content: center;
     margin: 30px;
     box-sizing: border-box;
+    --bs-gutter-x:0;
 }
 
-.col-flex{
+.flex-item-card {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+    margin: 15px;
+  }
+
+.flex-item-card .card-content {
+    padding-right: 0.8em;
+    padding-left: 0.8em;
+    padding-top: 0.8em;
+    padding-bottom: 0;
+}
+
+.project-title{
+    padding: 10px;
+    margin-top: auto;
+}
+
+.row {
+    margin-bottom: 30px; /* Add space between rows */
+  }
+  
+  .col-flex {
     display: flex;
     flex-direction: row;
-    justify-content: center;
-}
+    justify-content: space-between; /* Add space between cards */
+  }
+  
+  .col-flex > * {
+    flex: 1; /* Distribute available space evenly between cards */
+    margin: 0 10px; /* Add space around each card */
+  }
 
 .row{
     --bs-gutter-x:0;

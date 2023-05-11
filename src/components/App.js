@@ -7,6 +7,7 @@ import { MapPage } from './Map/MapPage';
 import { AboutPage} from './About/AboutPage';
 
 export default function App(props) {
+
 //   const [data, setData] = useState([]);
 //   const [alertMessage, setAlertMessage] = useState(null);
 //   const [isFetching, setIsFetching] = useState(false);
