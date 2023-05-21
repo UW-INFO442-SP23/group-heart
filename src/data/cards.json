@@ -2,6 +2,7 @@
   {
     "id": "1",
     "title": "Let's learn about RED!",
+    "color": "RED",
     "description": "Red is a bright and strong color that makes things stand out. It's the color of things like apples, stop signs, and fire trucks. When you see something that's red, it might make you feel excited or energized. Red is also a warning color, like when you see a stop sign. It's a warm color that can make things look closer or bigger. The color red is between orange and purple, and it has a long wave that makes it look bright.",
     "video": "https://www.youtube.com/embed/t-wmWae0ijI",
     "img_path": "https://github.com/UW-INFO442-SP23/group-heart/blob/main/public/img/homeimgs/grayscale/RedGray.png?raw=true",
@@ -10,42 +11,48 @@
   {
     "id": "2",
     "title": "Let's learn about ORANGE!",
+    "color": "ORANGE",
     "description": "Orange is a super happy and fun color that makes you feel full of energy! It's the color of things like juicy oranges, big pumpkins, and beautiful sunsets. When you see something that's orange, it might remind you of the fun times you have during the fall or Halloween. Orange is a warm color that can make things look super bright and exciting, just like a burst of sunshine! The color orange is a mix of red and yellow, and it has a cool wave that makes it look super cool and bright.",
-    "video": "bbY73VBdye0",
+    "video": "https://www.youtube.com/embed/bbY73VBdye0",
     "img_path": "https://github.com/UW-INFO442-SP23/group-heart/blob/main/public/img/homeimgs/grayscale/OrangeGray.png?raw=true",
     "img_alt": "this is a gray placeholder for Orange learning material"
   },
   {
     "id": "3",
     "title": "Let's learn about YELLOW!",
+    "color": "YELLOW",
     "description": "Yellow is a really bright and sunny color that makes you feel super happy and hopeful! It's the color of things like lemons, yummy bananas, and the warm sunshine. When you see something that's yellow, it might make you think of summertime or feeling really happy. Yellow is a warm color that can make things look really playful and cheerful, just like a bright and happy smile! The color yellow is in between the colors green and orange, and it looks really bright because it has a super short wave.",
-    "video": "bbY73VBdye0",
+    "video": "https://www.youtube.com/embed/bbY73VBdye0",
     "img_path": "https://github.com/UW-INFO442-SP23/group-heart/blob/main/public/img/homeimgs/grayscale/YellowGray.png?raw=true",
     "img_alt": "this is a gray placeholder for Yellow learning material"
   },
   {
     "id": "4",
     "title": "Let's learn about GREEN!",
+    "color": "GREEN",
     "description": "Green is a really cool color that makes you feel calm and peaceful, just like when you're outside playing in the park! It's the color of things like grass, trees, and leaves. When you see something that's green, it might remind you of going for a walk in the park and seeing all the different plants and trees growing around you. Green is a really cool color that can make things look really fresh and happy, just like when you see a big, beautiful garden! The color green is in between the colors blue and yellow, and it looks really bright because it has a medium wave.",
-    "video": "CGJoxqJOstA",
+    "video": "https://www.youtube.com/embed/CGJoxqJOstA",
     "img_path": "https://github.com/UW-INFO442-SP23/group-heart/blob/main/public/img/homeimgs/grayscale/GreenGray.png?raw=true",
     "img_alt": "this is a gray placeholder for Green learning material"
   },
   {
     "id": "5",
     "title": "Let's learn about BLUE!",
+    "color": "BLUE",
     "description": "Blue is a cool and calming color that makes you feel peaceful, like when you look up at the sky or swim in a pool. It's also the color of yummy blueberries! Blue can make things look really calm and relaxing, like when you snuggle up in your bed. The color blue is between green and purple, and it looks bright because it has a short wave..",
-    "video": "TigsV8B0HFk",
+    "video": "https://www.youtube.com/embed/TigsV8B0HFk",
     "img_path": "https://github.com/UW-INFO442-SP23/group-heart/blob/main/public/img/homeimgs/grayscale/BlueGray.png?raw=true",
     "img_alt": "this is a gray placeholder for Blue learning material"
   },
   {
     "id": "6",
     "title": "Let's learn about PURPLE!",
+    "color": "PURPLE",
     "description": "Purple is a special color that makes you feel creative and imaginative, just like when you draw or read a storybook! It's the color of things like yummy grapes, pretty lavender, and shiny amethysts. When you see something purple, it might remind you of a king or queen or a magical fairy tale! Purple can make things look really fancy and special, just like when you dress up for a party. The color purple is between blue and red, and it looks bright because it has a medium wave.",
-    "video": "78fEwCt4Ws8",
+    "video": "https://www.youtube.com/embed/78fEwCt4Ws8",
     "img_path": "https://github.com/UW-INFO442-SP23/group-heart/blob/main/public/img/homeimgs/grayscale/PurpleGray.png?raw=true",
     "img_alt": "this is a gray placeholder for Purple learning material"
   }
 ]
+
 

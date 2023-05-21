@@ -1,5 +1,4 @@
 import React, { useState } from 'react';
-import PropTypes from 'prop-types';
 
 export function Square(props) {
   // const generalpath = "https://github.com/UW-INFO442-SP23/group-heart/tree/main/";
@@ -41,11 +40,3 @@ export function Square(props) {
     </div>
   );
 }
-
-Square.propTypes = {
-  title: PropTypes.string.isRequired,
-  description: PropTypes.string.isRequired,
-  video: PropTypes.string.isRequired,
-  img_path: PropTypes.string.isRequired,
-  img_alt: PropTypes.string.isRequired,
-};
