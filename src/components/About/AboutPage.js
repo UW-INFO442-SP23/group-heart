@@ -5,7 +5,14 @@ import { Footer } from "../Common/Footer";
 import { Col, Row } from "react-bootstrap";
 import Carousel from "react-bootstrap/Carousel";
 import { Card } from "./Card/Card";
-import img from "../../img/logo.png";
+import img from "../../img/logo1.png";
+import img1 from "../../img/img1.png";
+import img2 from "../../img/img2.png";
+import img3 from "../../img/img3.png";
+import card1_img from "../../img/card1.png";
+import card2_img from "../../img/card2.png";
+import card3_img from "../../img/card3.png";
+import img7 from "../../img/img4.png";
 // Aboutpage wireframe (feel free to change it just a wireframe)
 
 // <Header>
@@ -31,7 +38,32 @@ export function AboutPage(props) {
 }
 
 const CarouselList = () => {
-  const CarouselListdata = [img, img, img];
+  const CarouselListdata = [
+    {
+      title:
+        "How might we support kids with color blindness and their families to help raise self esteem and confidence during their early childhood education?",
+      content:
+        "We will be focusing on colorblind children within the King County area at the elementary school level. Visually impaired children often struggle with keeping up with their peers and undiagnosed color blindness can setback their academic progress and hinder their self esteem. Color-blind kids face several challenges due to their condition, which affects their ability to perceive and differentiate between certain colors.",
+      imgurl: img1,
+      a: "https://www.youtube.com/watch?v=S9dVaWc7DA4",
+    },
+    {
+      title:
+        "How might we support kids with color blindness and their families to help raise self esteem and confidence during their early childhood education?",
+      content:
+        "We will be focusing on colorblind children within the King County area at the elementary school level. Visually impaired children often struggle with keeping up with their peers and undiagnosed color blindness can setback their academic progress and hinder their self esteem. Color-blind kids face several challenges due to their condition, which affects their ability to perceive and differentiate between certain colors.",
+      imgurl: img2,
+      a: "https://www.youtube.com/watch?v=GCQE1U2EQ_4",
+    },
+    {
+      title:
+        "How might we support kids with color blindness and their families to help raise self esteem and confidence during their early childhood education?",
+      content:
+        "We will be focusing on colorblind children within the King County area at the elementary school level. Visually impaired children often struggle with keeping up with their peers and undiagnosed color blindness can setback their academic progress and hinder their self esteem. Color-blind kids face several challenges due to their condition, which affects their ability to perceive and differentiate between certain colors.",
+      imgurl: img3,
+      a: "https://www.youtube.com/watch?v=NHlGiWYI7cY",
+    },
+  ];
   return (
     <>
       <Carousel className="m-3 Carsoulaaa" interval={null}>
@@ -42,23 +74,15 @@ const CarouselList = () => {
                 <Row>
                   <Col md={5} sm={12} xs={12} className="d-flex">
                     <div className="f-t-r">
-                      <h2> Why Mentorship? </h2>
-                      <p>
-                        Seniors have abundant life experiences. Their advice and
-                        suggestions are valuable for younger generations to face
-                        challenges and difficulties in life. Building a bridge
-                        between seniors and the younger generation will inspire
-                        their motivation to help, learn, and grow together. The
-                        story below illustrates how senior mentorships are
-                        salient to be beneficial to the younger group.{" "}
-                      </p>
+                      <h2> {i.title} </h2>
+                      <p>{i.content}</p>
                     </div>
                   </Col>
                   <Col md={7} sm={12} xs={12}>
                     <div className="f-t-l">
-                      <a href="https://youtu.be/qOp4Y2_g5ZI">
-                        <img src={i} className="img-fluid"></img>
-                        <img src={img} className="f-t-l-icon"></img>
+                      <a href={i.a}>
+                        <img src={i.imgurl} className="img-fluid"></img>
+                        <img src={img7} className="f-t-l-icon"></img>
                       </a>
                     </div>
                   </Col>
@@ -75,18 +99,21 @@ const RetCard = () => {
   const Lidata = [
     {
       content:
-        "For students looking to make connections with professionals in their field of study,mentorship can be a valuable resource. It enables students to learn from seasoned experts who have made a name for themselves in their area and receive insights, expertise, and firsthand experience.",
-      pic: img,
+        "The UN Sustainable Development Goal that we decided to go with is Quality Education. Quality education is a topic that resonates with us all because it allows us to educate and empower the generations to come after us. Our project will encompass an overlooked demographic of children, specifically children who experience life with visual impairments. The topic of visual impairments we will focus on is color blindness and providing resources to children who are color blind as well as their families so that they feel more supported through their educational journey and instill confidence so that they are academically successful. This project will aim to benefit color blind children as well as parents of color blind children that want to learn more to better support their child by providing resources.",
+      pic: card1_img,
+      a: "https://www.un.org/sustainabledevelopment/education/",
     },
     {
       content:
-        "Furthermore, it gives students the chance to network, acquire career development guidance,and establish connections that will serve them well throughout their professional careers.Mentorship can be a mutually beneficial relationship as the mentee can provide the mentor with new perspectives, ideas, and enthusiasm.",
-      pic: img,
+        "The UN Sustainable Development Goal that we decided to go with is Quality Education. Quality education is a topic that resonates with us all because it allows us to educate and empower the generations to come after us. Our project will encompass an overlooked demographic of children, specifically children who experience life with visual impairments. The topic of visual impairments we will focus on is color blindness and providing resources to children who are color blind as well as their families so that they feel more supported through their educational journey and instill confidence so that they are academically successful. This project will aim to benefit color blind children as well as parents of color blind children that want to learn more to better support their child by providing resources.",
+      pic: card2_img,
+      a: "https://www.un.org/sustainabledevelopment/education/",
     },
     {
       content:
-        "Additionally, professionals caan keep current on the most recent advancements in their industry and to give back to the community by imparting their knowledge and experience through this relationship.",
-      pic: img,
+        "The UN Sustainable Development Goal that we decided to go with is Quality Education. Quality education is a topic that resonates with us all because it allows us to educate and empower the generations to come after us. Our project will encompass an overlooked demographic of children, specifically children who experience life with visual impairments. The topic of visual impairments we will focus on is color blindness and providing resources to children who are color blind as well as their families so that they feel more supported through their educational journey and instill confidence so that they are academically successful. This project will aim to benefit color blind children as well as parents of color blind children that want to learn more to better support their child by providing resources.",
+      pic: card3_img,
+      a: "https://www.un.org/sustainabledevelopment/education/",
     },
   ];
   return (
@@ -98,7 +125,7 @@ const RetCard = () => {
               className="card-btn"
               {...Lidata[index][`buttonProps${index + 1}`]}
             >
-              Read More
+              <a href={i.a}>Read More</a>
             </div>
           </Card>
         );
