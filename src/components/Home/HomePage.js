@@ -42,9 +42,8 @@ const CarouselList = () => {
                   </Col>
                   <Col md={7} sm={12} xs={12}>
                     <div className="f-t-l">
-                      <a href="https://youtu.be/qOp4Y2_g5ZI">
+                      <a>
                         <img src={i} className="img-fluid"></img>
-                        <img src={img} className="f-t-l-icon"></img>
                       </a>
                     </div>
                   </Col>
