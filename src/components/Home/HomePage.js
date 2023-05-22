@@ -2,7 +2,7 @@ import React from "react";
 import { Navbar } from "../Common/Navbar";
 import { Footer } from "../Common/Footer";
 import Carousel from "react-bootstrap/Carousel";
-import img from "../../img/homeimg.png";
+import img from "../../img/newhomeimg.png";
 import { Col, Row } from "react-bootstrap";
 import { Cards } from "./Cards";
 export function HomePage(props) {
