@@ -48,7 +48,7 @@ export const Card = (Props) => {
   return (
     <>
       <div
-        style={{ padding: "10px" }}
+        style={{ padding: "20px" }}
         onClick={() => lokModel(Props.color)}
         onMouseEnter={() => setIsHovered(0)}
         onMouseLeave={() => setIsHovered(1)}

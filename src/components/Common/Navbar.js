@@ -7,8 +7,10 @@ export function Navbar(props) {
     <div className="spaceBetween-content">
       <div className="spaceBetween">
         <div>
-          <img className="logo" src={img} />
-          <span>Rainbow</span>
+          <Link to="/home" aria-label="Home" style={{ textDecoration: "none" }}>
+            <img className="logo" src={img} />
+            <span style={{ color: "#111" }}>Rainbow</span>
+          </Link>
         </div>
         <nav>
           <div className="links" role="navigation" aria-label="Navigation Bar">

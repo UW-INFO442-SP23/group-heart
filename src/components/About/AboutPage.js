@@ -71,17 +71,20 @@ const CarouselList = () => {
           return (
             <Carousel.Item key={index}>
               <section className="flex-item">
-                <Row>
-                  <Col md={5} sm={12} xs={12} className="d-flex">
+                <Row style={{ marginBottom: "0px" }}>
+                  <Col md={6} sm={12} xs={12} className="d-flex">
                     <div className="f-t-r">
                       <h2> {i.title} </h2>
                       <p>{i.content}</p>
                     </div>
                   </Col>
-                  <Col md={7} sm={12} xs={12}>
+                  <Col md={6} sm={12} xs={12}>
                     <div className="f-t-l">
-                      <a href={i.a}>
-                        <img src={i.imgurl} className="img-fluid"></img>
+                      <a href={i.a} style={{ width: "100%", height: "100%" }}>
+                        <img
+                          src={i.imgurl}
+                          className="img-fluid img-theadaptive"
+                        ></img>
                         <img src={img7} className="f-t-l-icon"></img>
                       </a>
                     </div>
