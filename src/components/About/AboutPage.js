@@ -45,7 +45,7 @@ const CarouselList = () => {
       content:
         "We will be focusing on colorblind children within the King County area at the elementary school level. Visually impaired children often struggle with keeping up with their peers and undiagnosed color blindness can setback their academic progress and hinder their self esteem. Color-blind kids face several challenges due to their condition, which affects their ability to perceive and differentiate between certain colors.",
       imgurl: img1,
-      a: "https://www.youtube.com/watch?v=S9dVaWc7DA4",
+      a: "https://www.youtube.com/watch?v=0F01Q0581pI",
     },
     {
       title:
@@ -53,7 +53,7 @@ const CarouselList = () => {
       content:
         "We will be focusing on colorblind children within the King County area at the elementary school level. Visually impaired children often struggle with keeping up with their peers and undiagnosed color blindness can setback their academic progress and hinder their self esteem. Color-blind kids face several challenges due to their condition, which affects their ability to perceive and differentiate between certain colors.",
       imgurl: img2,
-      a: "https://www.youtube.com/watch?v=GCQE1U2EQ_4",
+      a: "https://www.youtube.com/watch?v=S9dVaWc7DA4",
     },
     {
       title:
@@ -105,15 +105,15 @@ const RetCard = () => {
     },
     {
       content:
-        "The UN Sustainable Development Goal that we decided to go with is Quality Education. Quality education is a topic that resonates with us all because it allows us to educate and empower the generations to come after us. Our project will encompass an overlooked demographic of children, specifically children who experience life with visual impairments. The topic of visual impairments we will focus on is color blindness and providing resources to children who are color blind as well as their families so that they feel more supported through their educational journey and instill confidence so that they are academically successful. This project will aim to benefit color blind children as well as parents of color blind children that want to learn more to better support their child by providing resources.",
+        "In the academic setting, the first challenge that kids with colorblindness have is the difficulty with color-coded learning materials. Many educational materials, such as textbooks, charts and diagrams, use color to convey information. Color-blind kids may struggle to understand and interpret. There are also social and emotional challenges: They may feel different or excluded from activities that involve color identification, which can lead to feelings of embarrassment, frustration and isolation. It’s important to note that color-blindness is a spectrum, and the challenges faced by color-blind kids may vary depending on the severity and type of color-blindness they have. It’s essential to provide appropriate support, accommodations, and education to help color-blind kids overcome these challenges and succeed in various aspects of their lives.",
       pic: card2_img,
-      a: "https://www.un.org/sustainabledevelopment/education/",
+      a: "https://www.metroparent.com/parenting/health/color-deficiency-and-colorblindness-in-kids/",
     },
     {
       content:
-        "The UN Sustainable Development Goal that we decided to go with is Quality Education. Quality education is a topic that resonates with us all because it allows us to educate and empower the generations to come after us. Our project will encompass an overlooked demographic of children, specifically children who experience life with visual impairments. The topic of visual impairments we will focus on is color blindness and providing resources to children who are color blind as well as their families so that they feel more supported through their educational journey and instill confidence so that they are academically successful. This project will aim to benefit color blind children as well as parents of color blind children that want to learn more to better support their child by providing resources.",
+        "Through this project, we hope to create an educational tool for kids with colorblindness to address the problem of color-blind kids not having access to enough resources to help them in the classroom and at home. From our research, we found that young children with colorblindness that don’t receive support in the classroom often feel inadequate, lose confidence and can even become unwilling to learn (Colour Blind Awareness, 2022).” Teachers, especially during elementary school, use colors to teach subjects and for color-blind students this is hard to follow along and it is extremely important that these children with color blindness learn about the different shades and objects in their early years (Colour Blind Awareness, 2022). We also found that even online learning materials are not made suitable for color blindness (Colour Blind Awareness, 2022).",
       pic: card3_img,
-      a: "https://www.un.org/sustainabledevelopment/education/",
+      a: "https://www.colourblindawareness.org/education/",
     },
   ];
   return (
