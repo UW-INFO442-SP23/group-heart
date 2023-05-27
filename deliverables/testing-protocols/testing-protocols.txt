@@ -1,1 +1,23 @@
-Placeholder for testing-protocols
+Acceptance Tests:
+Tasks:
+- Play the video for the color “red”
+- Find a support group in the Seattle area
+- Find an article on the about us page
+
+Success:
+- Can play video, find a location, and read an article on the about us page
+
+Failure:
+- The popup cannot be opened or displays incorrect information
+- The video is not successfully embedded in the popup or the users can’t watch the video when clicking on it.
+- Users have problems dragging or zooming in/out the map
+- If the links for the articles on the about page don’t work
+
+Unit Tests:
+To make sure the website is functional and that there are no bugs we:
+- Made sure all of the cards play the correct video for each color
+- Display the most recent information on the map page
+- Test the links go to the right pages
+- Test the CSS to ensure all screen sizes work with our platform
+- Tested our website on both Windows and Mac
+
