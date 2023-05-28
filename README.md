@@ -12,7 +12,8 @@ UN’s SDG Website: [link](https://www.un.org/sustainabledevelopment/sustainable
 
 ## **Features**
 - Educational cards for each color of the rainbow to help children with color blindness learn/associate colors with objects
-- Interactive map showing locations of community and support groups relating to color blindness and research centers for visual impairments. In addition, we also include educational experiences and accessibility programs in the Seattle area.
+- Interactive map showing [locations](https://lhblind.org/wp-content/uploads/2020/06/LVS-Blind-Low-Vision-Support-Groups.pdf)
+of community and support groups relating to color blindness and research centers for visual impairments in the King Country area. 
 - About us page explaining our mission and shining light on the struggles colorblind children face in education
 ## **MVP**
 The published website can be viewed here: link to be provided when it is done.
@@ -50,5 +51,4 @@ git push --set-upstream origin <branch-name>
 ```
 git checkout <branch-name>
 ```
-## **References**
-To be provided
+

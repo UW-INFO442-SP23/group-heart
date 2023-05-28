@@ -6,7 +6,8 @@
         "contactPerson": "Gaylen Floy", 
         "contactPhone": "(253) 217-9586", 
         "contactEmail": "grfloy@gmail.com",  
-        "location": [47.467064039560746, -122.34655654584867]
+        "location": [47.467064039560746, -122.34655654584867],
+        "altText": "A map marker showing the location of South King Council of the Blind"
     },
     {
         "id": "2", 
@@ -15,7 +16,8 @@
         "contactPerson": "Sarah Robertson", 
         "contactPhone": "(206) 517-2282", 
         "contactEmail": "srobertson@hearthstone.org",  
-        "location": [47.67816377351815, -122.32826908262015]
+        "location": [47.67816377351815, -122.32826908262015],
+        "altText": "A map marker showing the location of Hearthstone Low Vision Support Group"
     },
     {
         "id": "3", 
@@ -24,7 +26,8 @@
         "contactPerson": "Maida Pojtinger", 
         "contactPhone": "(253) 631-7904", 
         "contactEmail": "pojtinger@comcast.net",  
-        "location": [47.38326604572103, -122.22721511701855]
+        "location": [47.38326604572103, -122.22721511701855],
+        "altText": "A map marker showing the location of Kent Senior Center Low Vision Support"
     },
     {
         "id": "4", 
@@ -33,7 +36,8 @@
         "contactPerson": "Linda Wickersham", 
         "contactPhone": "(206) 524-4238", 
         "contactEmail": "wickershamlinda@gmail.com",  
-        "location": [47.66209081497628, -122.34189146117785]
+        "location": [47.66209081497628, -122.34189146117785],
+        "altText": "A map marker showing the location of King County Chapter, Council of the Blind"
     },
     {
         "id": "5", 
@@ -42,7 +46,8 @@
         "contactPerson": "Marci Carpenter", 
         "contactPhone": "(206) 933-7971", 
         "contactEmail": "mjc59@comcast.net",  
-        "location": [47.617677247861074, -122.34385630406754]
+        "location": [47.617677247861074, -122.34385630406754],
+        "altText": "A map marker showing the location of NFBW, Greater Seattle Chapter"
     }, 
     {
         "id": "6", 
@@ -51,7 +56,8 @@
         "contactPerson": "Mary Lewis", 
         "contactPhone": "(206) 551-2912", 
         "contactEmail": "mlewis915@me.com", 
-        "location": [47.668588871125685, -122.39804514454534]
+        "location": [47.668588871125685, -122.39804514454534],
+        "altText": "A map marker showing the location of Ballard Low Vision Support Group"
     },
     {
         "id": "7", 
@@ -60,7 +66,8 @@
         "contactPerson": "Camille Jassny, Barbara Goeckel", 
         "contactPhone": "(206) 363-8166", 
         "contactEmail": "cjassny@gmail.com",  
-        "location": [47.6231808532245, -122.32239720350955]
+        "location": [47.6231808532245, -122.32239720350955],
+        "altText": "A map marker showing the location of Seattle Low Vision Support Group"
     },
     {
         "id": "8", 
@@ -69,7 +76,8 @@
         "contactPerson": "Darryl Roberts", 
         "contactPhone": "(567) 249-7197", 
         "contactEmail": "darroberts16@gmail.com",  
-        "location": [47.691270042668464, -122.3555869746696]
+        "location": [47.691270042668464, -122.3555869746696],
+        "altText": "A map marker showing the location of United Blind of Seattle"
     },
     {
         "id": "9", 
@@ -78,7 +86,8 @@
         "contactPerson": "Pamela Wickard", 
         "contactPhone": "(206) 463-5173", 
         "contactEmail": "pawickard@hotmail.com",  
-        "location": [47.44773080381192, -122.46193863050814]
+        "location": [47.44773080381192, -122.46193863050814],
+        "altText": "A map marker showing the location of Vashon Low Vision Support Group"
     },
     {
         "id": "10", 
@@ -87,6 +96,7 @@
         "contactPerson": "Holly McNeill", 
         "contactPhone": "(206) 932-4044", 
         "contactEmail": "hollym@soundgenerations.org",  
-        "location": [47.5629436425564, -122.3865424746779]
+        "location": [47.5629436425564, -122.3865424746779],
+        "altText": "A map marker showing the location of West Seattle Low Vision Support Group"
     }
 ]
