@@ -28,6 +28,7 @@ export function Map(props) {
                 {props.locationData.map(group => (
                     <Marker
                         key={group.id}
+                        title={group.altText}
                         position={group.location}
                         eventHandlers={{
                             click: () => {
