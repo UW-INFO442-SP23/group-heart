@@ -1,17 +1,17 @@
 [
-    {
+   {
         "id": "1", 
-        "name": "Seattle Low Vision Support Group", 
-        "address": "Community Meeting Room -- Capitol Hill Branch of the Seattle Public Library: 425 Harvard Ave E, Seattle, WA 98102", 
-        "contactPerson": "Camille Jassny, Barbara Goeckel", 
-        "contactPhone": "(206) 363-8166", 
-        "contactEmail": "cjassny@gmail.com",  
-        "location": [47.6231808532245, -122.32239720350955]
+        "name": "South King Council of the Blind", 
+        "address": "Classic Eats: 918 SW 152nd Street, Burien, WA", 
+        "contactPerson": "Gaylen Floy", 
+        "contactPhone": "(253) 217-9586", 
+        "contactEmail": "grfloy@gmail.com",  
+        "location": [47.467064039560746, -122.34655654584867]
     },
     {
         "id": "2", 
         "name": "Hearthstone Low Vision Support Group", 
-        "address": "Hearthstone, in the chapel (1st floor): 6720 E Green Lake Way N, Seattle, WA", 
+        "address": "6720 E Green Lake Way N, Seattle, WA", 
         "contactPerson": "Sarah Robertson", 
         "contactPhone": "(206) 517-2282", 
         "contactEmail": "srobertson@hearthstone.org",  
@@ -38,7 +38,7 @@
     {
         "id": "5", 
         "name": "NFBW, Greater Seattle Chapter", 
-        "address": "City University Building Edmonton Room (1st floor just off the lobby/atrium): 521 Wall St, Seattle, WA", 
+        "address": "City University Building: 521 Wall St, Seattle, WA", 
         "contactPerson": "Marci Carpenter", 
         "contactPhone": "(206) 933-7971", 
         "contactEmail": "mjc59@comcast.net",  
@@ -55,12 +55,12 @@
     },
     {
         "id": "7", 
-        "name": "South King Council of the Blind", 
-        "address": "Classic Eats: 918 SW 152nd Street, Burien, WA", 
-        "contactPerson": "Gaylen Floy", 
-        "contactPhone": "(253) 217-9586", 
-        "contactEmail": "grfloy@gmail.com",  
-        "location": [47.467064039560746, -122.34655654584867]
+        "name": "Seattle Low Vision Support Group", 
+        "address": "425 Harvard Ave E, Seattle, WA 98102", 
+        "contactPerson": "Camille Jassny, Barbara Goeckel", 
+        "contactPhone": "(206) 363-8166", 
+        "contactEmail": "cjassny@gmail.com",  
+        "location": [47.6231808532245, -122.32239720350955]
     },
     {
         "id": "8", 
@@ -74,7 +74,7 @@
     {
         "id": "9", 
         "name": "Vashon Low Vision Support Group", 
-        "address": "Vashon Senior Center: 10004 SW Bank Road, Vashon, WA", 
+        "address": "10004 SW Bank Road, Vashon, WA", 
         "contactPerson": "Pamela Wickard", 
         "contactPhone": "(206) 463-5173", 
         "contactEmail": "pawickard@hotmail.com",  
@@ -83,7 +83,7 @@
     {
         "id": "10", 
         "name": "West Seattle Low Vision Support Group", 
-        "address": "West Seattle Senior Center: 4217 SW Oregon St, Seattle, WA", 
+        "address": "4217 SW Oregon St, Seattle, WA", 
         "contactPerson": "Holly McNeill", 
         "contactPhone": "(206) 932-4044", 
         "contactEmail": "hollym@soundgenerations.org",  
