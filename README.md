@@ -16,7 +16,7 @@ UN’s SDG Website: [link](https://www.un.org/sustainabledevelopment/sustainable
 of community and support groups relating to color blindness and research centers for visual impairments in the King County area. 
 - About us page explaining our mission and shining light on the struggles colorblind children face in education
 ## **MVP**
-The published website can be viewed here: link to be provided when it is done.
+The published website can be viewed [here](https://groupheart-5d508.web.app/home)
 ## **Group Members**
 - Emily Yu
 - Vivian Yu
@@ -36,7 +36,6 @@ npm install
 npm start
 Ctrl + C to cancel
 ```
-2. Firebase instructions (details to be provided)
 ## **Git Branch**
 1. See all local and remote branches
 ```
